@@ -17,15 +17,15 @@ SO I made a custom 60 % layout  Split Mechanical keyboard which has a rotor enco
 
 | Item | Price (USD) | Source |
 |---|---:|---|
-| PCB + Shipping + 3D Prints - Coupons | $23.14 | [JLCPCB](https://jlcpcb.com/) |
-| KeyCaps | $15.04 | [Meckeys](https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/ranuw-keycap-set/) |
-| Stabilizers | $10.76 | [Meckeys](https://meckeys.com/shop/accessories/keyboard-accessories/more/glorious-goat-stabilizers/) |
-| Switches (Pack of 10) × 7 | $22.10 | [Meckeys](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/hmx-xinhai-switch/?attribute_pa_key-switches=hmx-xinhai-45g) |
-| PCA9555 Expander × 2 | $6.22 | [Robu](https://robu.in/product/pca9555dwr-texas-instruments-400khz-soic-24-300mil-i-o-expanders-rohs/) |
-| Seeed Studio XIAO RP2040 | $5.92 | [Robu](https://robu.in/product/seeed-studio-xiao-rp2040-v1-0/) |
-| 1N4148W-T4 Diodes (Pack of 15) × 70 | $3.20 | [Shavi Electronics](https://sharvielectronics.com/product/a7-1n4007-100v-1a-silicon-rectifier-diode-sod-123fl-smd-package/) |
-| SK6812MINI-E | $8.10 | [ET Store](https://www.etstore.in/products/e9974?variant=48993209319675) |
-| Components Shipping | $3.30 | [Shavi Electronics](https://sharvielectronics.com/) / [Meckeys](https://meckeys.com/) / [Robu](https://robu.in/) |
+| PCB + Shipping + 3D Prints - Coupons | $23.14 | https://jlcpcb.com/|
+| KeyCaps | $15.04 | https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/ranuw-keycap-set/ |
+| Stabilizers | $10.76 | https://meckeys.com/shop/accessories/keyboard-accessories/more/glorious-goat-stabilizers/ |
+| Switches (Pack of 10) × 7 | $22.10 | https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/hmx-xinhai-switch/?attribute_pa_key-switches=hmx-xinhai-45g|
+| PCA9555 Expander × 2 | $6.22 | https://robu.in/product/pca9555dwr-texas-instruments-400khz-soic-24-300mil-i-o-expanders-rohs/ |
+| Seeed Studio XIAO RP2040 | $5.92 | https://robu.in/product/seeed-studio-xiao-rp2040-v1-0/ |
+| 1N4148W-T4 Diodes (Pack of 15) × 70 | $3.20 | https://sharvielectronics.com/product/a7-1n4007-100v-1a-silicon-rectifier-diode-sod-123fl-smd-package/|
+| SK6812MINI-E | $8.10 | https://www.etstore.in/products/e9974?variant=48993209319675|
+| Components Shipping | $3.30 |https://sharvielectronics.com/ / https://meckeys.com / https://robu.in |
 | **Total** | **$97.78** | |
 
 
