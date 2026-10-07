@@ -8821,7 +8821,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 152.4 189.23 0)
 			(effects
 				(font
@@ -9138,7 +9138,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 394.97 160.02 0)
 			(effects
 				(font
@@ -9639,7 +9639,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 349.25 181.61 0)
 			(effects
 				(font
@@ -10231,7 +10231,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 288.29 181.61 0)
 			(effects
 				(font
@@ -10307,7 +10307,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 303.53 181.61 0)
 			(effects
 				(font
@@ -10559,7 +10559,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 182.88 237.49 0)
 			(effects
 				(font
@@ -10633,7 +10633,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 303.53 160.02 0)
 			(effects
 				(font
@@ -10797,7 +10797,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 349.25 227.33 0)
 			(effects
 				(font
@@ -10961,7 +10961,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 137.16 237.49 0)
 			(effects
 				(font
@@ -11548,7 +11548,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 182.88 214.63 0)
 			(effects
 				(font
@@ -11710,7 +11710,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 198.12 214.63 0)
 			(effects
 				(font
@@ -11784,7 +11784,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 167.64 237.49 0)
 			(effects
 				(font
@@ -11858,7 +11858,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 198.12 189.23 0)
 			(effects
 				(font
@@ -12000,7 +12000,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 318.77 181.61 0)
 			(effects
 				(font
@@ -12617,7 +12617,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 364.49 204.47 0)
 			(effects
 				(font
@@ -12758,7 +12758,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 228.6 237.49 0)
 			(effects
 				(font
@@ -12832,7 +12832,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 167.64 214.63 0)
 			(effects
 				(font
@@ -12906,7 +12906,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 228.6 167.64 0)
 			(effects
 				(font
@@ -12980,7 +12980,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 167.64 189.23 0)
 			(effects
 				(font
@@ -13124,7 +13124,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 198.12 237.49 0)
 			(effects
 				(font
@@ -13504,7 +13504,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 288.29 227.33 0)
 			(effects
 				(font
@@ -13579,7 +13579,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 318.77 204.47 0)
 			(effects
 				(font
@@ -13725,7 +13725,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 213.36 214.63 0)
 			(effects
 				(font
@@ -13955,7 +13955,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 243.84 214.63 0)
 			(effects
 				(font
@@ -14030,7 +14030,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 288.29 160.02 0)
 			(effects
 				(font
@@ -14172,7 +14172,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 213.36 167.64 0)
 			(effects
 				(font
@@ -14493,7 +14493,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 213.36 237.49 0)
 			(effects
 				(font
@@ -14568,7 +14568,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 182.88 167.64 0)
 			(effects
 				(font
@@ -14711,7 +14711,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 152.4 237.49 0)
 			(effects
 				(font
@@ -16367,7 +16367,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 334.01 181.61 0)
 			(effects
 				(font
@@ -16750,7 +16750,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 349.25 204.47 0)
 			(effects
 				(font
@@ -16891,7 +16891,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 137.16 214.63 0)
 			(effects
 				(font
@@ -17173,7 +17173,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 364.49 160.02 0)
 			(effects
 				(font
@@ -17856,7 +17856,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 213.36 189.23 0)
 			(effects
 				(font
@@ -18063,7 +18063,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 243.84 167.64 0)
 			(effects
 				(font
@@ -18138,7 +18138,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 303.53 204.47 0)
 			(effects
 				(font
@@ -19075,7 +19075,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 318.77 160.02 0)
 			(effects
 				(font
@@ -19285,7 +19285,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 334.01 204.47 0)
 			(effects
 				(font
@@ -19360,7 +19360,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 167.64 167.64 0)
 			(effects
 				(font
@@ -19434,7 +19434,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 379.73 181.61 0)
 			(effects
 				(font
@@ -19598,7 +19598,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 394.97 204.47 0)
 			(effects
 				(font
@@ -20005,7 +20005,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 152.4 214.63 0)
 			(effects
 				(font
@@ -20898,7 +20898,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 228.6 189.23 0)
 			(effects
 				(font
@@ -21594,7 +21594,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 364.49 181.61 0)
 			(effects
 				(font
@@ -22168,7 +22168,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 243.84 237.49 0)
 			(effects
 				(font
@@ -22242,7 +22242,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 318.77 227.33 0)
 			(effects
 				(font
@@ -22318,7 +22318,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 334.01 227.33 0)
 			(effects
 				(font
@@ -22393,7 +22393,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 379.73 160.02 0)
 			(effects
 				(font
@@ -22536,7 +22536,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 228.6 214.63 0)
 			(effects
 				(font
@@ -22818,7 +22818,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 198.12 167.64 0)
 			(effects
 				(font
@@ -23521,7 +23521,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 303.53 227.33 0)
 			(effects
 				(font
@@ -23930,7 +23930,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 379.73 204.47 0)
 			(effects
 				(font
@@ -24230,7 +24230,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 182.88 189.23 0)
 			(effects
 				(font
@@ -24393,7 +24393,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 152.4 167.64 0)
 			(effects
 				(font
@@ -24599,8 +24599,8 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
-			(at 137.16 167.64 0)
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
+			(at 130.81 169.926 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24850,7 +24850,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 334.01 160.02 0)
 			(effects
 				(font
@@ -24925,7 +24925,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 288.29 204.47 0)
 			(effects
 				(font
@@ -25069,7 +25069,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 394.97 181.61 0)
 			(effects
 				(font
@@ -25321,7 +25321,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 243.84 189.23 0)
 			(effects
 				(font
@@ -25462,8 +25462,8 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
-			(at 137.16 189.23 0)
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
+			(at 142.24 192.278 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25762,7 +25762,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812-E (2):LED_SK6812-E"
+		(property "Footprint" "Sk6812-MINI-E:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
 			(at 349.25 160.02 0)
 			(effects
 				(font
