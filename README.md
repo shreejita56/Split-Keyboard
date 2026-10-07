@@ -31,10 +31,13 @@ SO I made a custom 60 % layout  Split Mechanical keyboard which has a rotor enco
 
 
 ### Schematic<br><br>
-<img width="1152" height="732" alt="Screenshot 2026-10-01 124049" src="https://github.com/user-attachments/assets/d664f061-3c07-46d0-acd9-042e3f6ebf67" />
+
+<img width="971" height="611" alt="Screenshot 2026-10-08 034507" src="https://github.com/user-attachments/assets/3294479f-aae9-471a-98a1-c2b3717d91e8" />
 
 ###  PCB Design<br><br>
-<img width="1493" height="547" alt="Screenshot 2026-10-01 132024" src="https://github.com/user-attachments/assets/f478b816-45fa-4ab1-b1fb-c1ed8fd14840" />
+<img width="1237" height="467" alt="Screenshot 2026-10-08 034433" src="https://github.com/user-attachments/assets/e759d3f9-1e23-4e6d-9d55-abcd7b6409c2" />
+<img width="1128" height="518" alt="Screenshot 2026-10-08 034446" src="https://github.com/user-attachments/assets/d99aac96-2bf5-4a43-ac20-910fbe564c91" />
+
 
 ### 3D Render <br><br>
 <img width="842" height="742" alt="Screenshot 2026-10-01 121305" src="https://github.com/user-attachments/assets/2414ae61-1c4f-4f35-9a0a-d952c9eedf98" />
