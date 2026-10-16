@@ -32,7 +32,8 @@ SO I made a custom 60 % layout  Split Mechanical keyboard which has a rotor enco
 
 ### Schematic<br><br>
 
-<img width="971" height="611" alt="Screenshot 2026-10-08 034507" src="https://github.com/user-attachments/assets/3294479f-aae9-471a-98a1-c2b3717d91e8" />
+<img width="1105" height="760" alt="Screenshot 2026-10-17 042426" src="https://github.com/user-attachments/assets/efb2d4dc-470a-4acd-9f57-2210eb143c98" />
+
 
 ###  PCB Design<br><br>
 <img width="1361" height="546" alt="Screenshot 2026-10-17 042313" src="https://github.com/user-attachments/assets/e7765e6d-8581-4bac-9be1-b9fdd8655fd6" />
