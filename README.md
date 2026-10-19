@@ -43,6 +43,6 @@ SO I made a custom 60 % layout  Split Mechanical keyboard which has a rotor enco
 
 
 ### 3D Render <br><br>
-<img width="842" height="742" alt="Screenshot 2026-10-01 121305" src="https://github.com/user-attachments/assets/2414ae61-1c4f-4f35-9a0a-d952c9eedf98" />
-<img width="967" height="607" alt="Screenshot 2026-10-01 121331" src="https://github.com/user-attachments/assets/c420a905-ea25-4b83-afd2-cfac2fbdc6db" />
-<img width="1255" height="485" alt="Screenshot 2026-10-01 121230" src="https://github.com/user-attachments/assets/5cff82bd-400a-4510-b56f-76cf2a06bf3c" />
+<img width="1302" height="620" alt="Screenshot 2026-10-19 152404" src="https://github.com/user-attachments/assets/3878eac1-0025-43df-88ae-cd980b225005" />
+
+<img width="1062" height="471" alt="image" src="https://github.com/user-attachments/assets/fa0df8bf-d68e-4eb1-9544-0c39b11dbce1" />
